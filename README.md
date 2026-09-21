@@ -1,2 +1,2 @@
 # C-Projects
-Projects using C
+Basic Projects using C
